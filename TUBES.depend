@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1524121942 source:c:\users\microsoft\desktop\if4102-aplikasi riwayat pendidikan\gede agung brahmana suryanegara - intan maharani - kafel ahnaf suryanto - 1301174462 - 1301174105 - 1301174567\child.cpp
+	"CHILD.h"
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+
+1524120771 c:\users\microsoft\desktop\if4102-aplikasi riwayat pendidikan\gede agung brahmana suryanegara - intan maharani - kafel ahnaf suryanto - 1301174462 - 1301174105 - 1301174567\child.h
+	<iostream>
+
+1524497392 source:c:\users\microsoft\desktop\if4102-aplikasi riwayat pendidikan\gede agung brahmana suryanegara - intan maharani - kafel ahnaf suryanto - 1301174462 - 1301174105 - 1301174567\parent.cpp
+	"PARENT.h"
+
+1524283061 c:\users\microsoft\desktop\if4102-aplikasi riwayat pendidikan\gede agung brahmana suryanegara - intan maharani - kafel ahnaf suryanto - 1301174462 - 1301174105 - 1301174567\parent.h
+	<iostream>
+
+1524498663 source:c:\users\microsoft\desktop\if4102-aplikasi riwayat pendidikan\gede agung brahmana suryanegara - intan maharani - kafel ahnaf suryanto - 1301174462 - 1301174105 - 1301174567\relasi.cpp
+	"RELASI.h"
+	"PARENT.h"
+	"CHILD.h"
+
+1524487499 c:\users\microsoft\desktop\if4102-aplikasi riwayat pendidikan\gede agung brahmana suryanegara - intan maharani - kafel ahnaf suryanto - 1301174462 - 1301174105 - 1301174567\relasi.h
+	<iostream>
+	"PARENT.h"
+	"CHILD.h"
+
+1524553762 source:c:\users\microsoft\desktop\if4102-aplikasi riwayat pendidikan\gede agung brahmana suryanegara - intan maharani - kafel ahnaf suryanto - 1301174462 - 1301174105 - 1301174567\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	"PARENT.h"
+	"RELASI.h"
+	"CHILD.h"
+
+1524591626 source:d:\if4102-aplikasi riwayat pendidikan\gede agung brahmana suryanegara - intan maharani - kafel ahnaf suryanto - 1301174462 - 1301174105 - 1301174567\child.cpp
+	"CHILD.h"
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+
+1524590569 d:\if4102-aplikasi riwayat pendidikan\gede agung brahmana suryanegara - intan maharani - kafel ahnaf suryanto - 1301174462 - 1301174105 - 1301174567\child.h
+	<iostream>
+
+1524590127 source:d:\if4102-aplikasi riwayat pendidikan\gede agung brahmana suryanegara - intan maharani - kafel ahnaf suryanto - 1301174462 - 1301174105 - 1301174567\parent.cpp
+	"PARENT.h"
+
+1524283061 d:\if4102-aplikasi riwayat pendidikan\gede agung brahmana suryanegara - intan maharani - kafel ahnaf suryanto - 1301174462 - 1301174105 - 1301174567\parent.h
+	<iostream>
+
+1524591946 source:d:\if4102-aplikasi riwayat pendidikan\gede agung brahmana suryanegara - intan maharani - kafel ahnaf suryanto - 1301174462 - 1301174105 - 1301174567\relasi.cpp
+	"RELASI.h"
+	"PARENT.h"
+	"CHILD.h"
+
+1524487499 d:\if4102-aplikasi riwayat pendidikan\gede agung brahmana suryanegara - intan maharani - kafel ahnaf suryanto - 1301174462 - 1301174105 - 1301174567\relasi.h
+	<iostream>
+	"PARENT.h"
+	"CHILD.h"
+
+1524592069 source:d:\if4102-aplikasi riwayat pendidikan\gede agung brahmana suryanegara - intan maharani - kafel ahnaf suryanto - 1301174462 - 1301174105 - 1301174567\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	"PARENT.h"
+	"RELASI.h"
+	"CHILD.h"
+
